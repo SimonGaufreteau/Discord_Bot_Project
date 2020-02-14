@@ -197,7 +197,14 @@ __*Note from the author :*__
 [Git deposit (from 3x1)](https://github.com/SimonGaufreteau/Discord_Bot_Project)  
 [The ELG discord server](https://discord.gg/3FRxFKc) (*Note : This server is not active anymore. The bot was locally hosted and isn't running anymore*)
 
-### 5. Contacts
+
+### 5. Notes
+A modified version will be uploaded in the next weeks. As I said before, I kind of learned Python and how to use the API on one day, then wrote this bot. 
+
+Everything will be rewritten to be clearer and to probably use a POO model. 
+
+
+### 6. Contacts
 If you have any question about this project, code or anything related, contact me at simon.gaufreteau@gmail.com.
 If you want to try the bot, get the code from the git deposit or go on the ELG discord server linked above.
 

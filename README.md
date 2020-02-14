@@ -194,7 +194,7 @@ __*Note from the author :*__
 
 
 ### 4. Links
-[Git deposit (from 3x1)](https://github.com/SimonGaufreteau/Discord_Bot_Project)  
+[Git deposit (from SimonGaufreteau)](https://github.com/SimonGaufreteau/Discord_Bot_Project)  
 [The ELG discord server](https://discord.gg/3FRxFKc) (*Note : This server is not active anymore. The bot was locally hosted and isn't running anymore*)
 
 
